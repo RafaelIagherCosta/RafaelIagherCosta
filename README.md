@@ -1,6 +1,6 @@
 ## Rafael Iagher Costa <br>
 ### Back-End Developer <br>
-Focused in Back-End technology. <br>
+Focused on Full-Stack technology. <br>
  
 📚 Currently studying front-end specifically javascript and it`s framework; <br>
 🔭 Constantly on the lookout to broaden my knowledge base; <br>
